@@ -1,0 +1,1 @@
+This project focuses on preparing and analyzing data using MySQL, demonstrating practical skills in data cleaning and exploratory data analysis (EDA). The primary objectives include transforming raw, unstructured data into a clean, usable format and uncovering valuable insights through detailed analysis
